@@ -1,0 +1,23 @@
+* {
+  margin: 0.5em;
+}
+
+.step-link {
+  display: block;
+  font-size: larger;
+  font-weight: bolder;
+  margin: 1em;
+  width: max-content;
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  box-shadow: 2px 2px;
+  width: max-content;
+}
+
+button {
+  font-variant: small-caps;
+}
